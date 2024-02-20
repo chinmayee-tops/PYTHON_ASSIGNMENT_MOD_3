@@ -1,0 +1,9 @@
+>>>Differentiate between append () and extend () methods?
+
+1)append() : using append method we can add data at the end of the list
+ syntax:
+		list.append(element)
+	
+2)extend() : using extend method we can add multiple elements in existing list
+   syntax:
+		list.extend([element])

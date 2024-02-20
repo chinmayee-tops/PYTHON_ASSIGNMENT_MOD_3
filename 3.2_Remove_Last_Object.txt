@@ -1,0 +1,20 @@
+>>> How will you remove last object from a list?
+Suppose list1 is [2, 33, 222, 14, and 25], what is list1 [-1]?
+
+Lists are one of the mutable data types in python.These are ordered collection 
+of different data types. For example,
+
+my_list=[1, “one" ,1.4]
+	
+As lists are ordered collection of different data types, we can traverse through 
+different elements in a list through the process of indexing. There are two types of indexing i. e positive indexing and negative indexing.Positive indexing starts from the first 	element of the list itself (i. e from extreme left corner) while negative indexing starts in reverse order i. e from the last 	element of the list. Here,
+
+list1=[2,33 222,14,25]
+
+Thus here,
+
+list1[-1]=25
+
+list1[-2]=14
+
+list1[2]=222

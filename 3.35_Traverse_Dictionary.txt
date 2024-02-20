@@ -1,0 +1,27 @@
+>>>How Do You Traverse Through A Dictionary Object In Python? 
+
+Iterating through a dictionary means, visiting each key-value pair in order. 
+It means accessing a Python dictionary and traversing each key-value present 
+in the dictionary. Iterating a dictionary is a very important task if you want 
+to properly use a dictionary.
+
+To traverse dictionary..
+
+1))
+statesAndCapitals={  'Gujarat': 'Gandhinagar',
+                     'Maharashtra': 'Mumbai',
+                     'Rajasthan': 'Jaipur'
+                  }
+keys = statesAndCapitals.keys()
+print(keys)
+
+2))
+statesAndCapitals={
+    			'Gujarat': 'Gandhinagar',
+    			'Maharashtra': 'Mumbai',
+    			'Rajasthan': 'Jaipur'
+    
+		}
+ 
+for key, value in statesAndCapitals.items():
+    print(f"{key}: {value}")

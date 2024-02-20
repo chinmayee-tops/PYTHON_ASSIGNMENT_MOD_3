@@ -1,0 +1,29 @@
+>>> What is tuple? Difference between list and tuple.
+
+.Tuple
+-------------------------------------------------------------------------------------------------
+A tuple is a collection which is ordered and unchangeable.
+Tuple items are ordered, unchangeable, and allow duplicate values.
+Tuple items are indexed, the first item has index [0], the second item has index [1] etc.
+
+For example,
+mycolor = ("red", "green", "blue")
+print(mycolor)
+
+
+.Difference between list and tuple.
+---------------------------------------------------------------------------------------------
+Lists consume more memory.
+Tuple consumes less memory as compared to the list
+
+Lists have several built-in methods.
+Tuple does not have many built-in methods.
+
+The implication of iterations is Time-consuming in List.
+The implication of iterations is comparatively Faster in tuple.
+
+Lists are mutable.
+Tuples are immutable.
+
+The list is better for performing operations, such as insertion and deletion.
+A Tuple data type is appropriate for accessing the elements
