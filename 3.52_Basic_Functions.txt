@@ -1,0 +1,19 @@
+>>>How Many Basic Types Of Functions Are Available In Python? 
+
+There are two types of functions in python:
+
+User-Defined Functions - these types of functions are defined by the user to perform any specific task
+Built-in Functions - These are pre-defined functions in python.
+
+Some of the widely used python built-in functions are:
+
+len()	    Returns the length of a python object
+abs()	    Returns the absolute value of a number
+max()	    Returns the largest item in a python iterable
+min()	    Returns the largest item in a python iterable
+sum()	    Sum() in Python returns the sum of all the items in an iterator
+type()	    The type() in Python returns the type of a python object
+help()	    Executes the python built-in interactive help console
+input()	    Allows the user to give input
+format()    Formats a specified value
+bool()	    Returns the boolean value of an object
